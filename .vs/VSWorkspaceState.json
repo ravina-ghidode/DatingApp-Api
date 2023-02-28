@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Contracts",
+    "\\Data",
+    "\\DTO",
+    "\\Entities",
+    "\\Middleware",
+    "\\Properties",
+    "\\Repositories"
+  ],
+  "PreviewInSolutionExplorer": false
+}
